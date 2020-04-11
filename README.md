@@ -7,8 +7,8 @@ It's you vs. Sheldon! First player to 5 wins the game. Choose your weapons wisel
 
 ![Rock, Paper, Scissors, Lizard, Spock](demo.gif)
 
-## To Play (Desktop only)
-Visit https://bmdoane.github.io/Rock-Paper-Scissors-Lizard-Spock
+## To Play 
+Visit http://rock-paper-sci-liz-spoc.herokuapp.com/
 
 ## Still Outstanding
 - Responsive version
