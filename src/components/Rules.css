@@ -1,0 +1,33 @@
+.tc{
+    text-align: center;
+    font-size: large;
+}
+
+.tc1{
+    margin-left:5px;
+}
+
+.fa-instagram{
+    color:black;
+    margin-left: 600px;
+    padding: 20px;
+}
+
+.fa-github{
+    color: black;
+}
+
+@media screen and (max-width: 480px)  {
+    .fa-instagram{
+        color:black;
+        margin-left: 00px;
+    }
+    
+    .fa-github{
+        color: black;
+
+    }
+    
+  }
+
+ 

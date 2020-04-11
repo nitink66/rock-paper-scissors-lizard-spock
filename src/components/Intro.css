@@ -1,0 +1,12 @@
+.intro{
+    width: 100vw;
+    height: 90vh;
+}
+
+  @media screen and (min-width: 960px)  {
+    .res{
+        display: none;
+    }
+    }
+
+ 
